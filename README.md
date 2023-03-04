@@ -3,6 +3,8 @@
 
 1. Dataset
 
+   [안전모 합성 이미지](https://github.com/Hennakk/image-processing/blob/main/result.md)
+
 2. Tensorflow API
    - Convert XML to CVS
    - Generate TFRecode from CVS & Image
