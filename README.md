@@ -1,6 +1,12 @@
 # Helmet Detection in Web Server
 ## 웹서버를 통한 안전모 착용 자동 감지
 
+  - 기존의 Classification으로는 단일 객체의 분류한 가능
+  
+  
+      -> bounding box를 이용하여 다수의 객체의 위치와 분류를 할 수 있는 object detection 을 이용
+
+
 1. Dataset
 
    [안전모 합성 이미지](https://github.com/Hennakk/image-processing/blob/main/result.md)
