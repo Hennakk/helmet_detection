@@ -1,10 +1,15 @@
 # Helmet Detection in Web Server
 ## 웹서버를 통한 안전모 착용 자동 감지
 
-  - 기존의 Classification으로는 단일 객체의 분류한 가능
+
+- Object Detection
+
+
+  대표적인 컴퓨터 비전 기술로 객체의 분류와 위치를 동시에 예측
   
-  
-      -> bounding box를 이용하여 다수의 객체의 위치와 분류를 할 수 있는 object detection 을 이용
+  기존의 classification 기술은 단일 객체만 검출이 가능
+  다수의 객체의 분류와 위치를 추정하기 위해 Object Detection 기술 이용
+
 
 
 1. Dataset
