@@ -26,6 +26,6 @@
    - Test model 
  
  3. 라즈베리파이 포팅 및 웹서버 구축
+<img src="https://user-images.githubusercontent.com/98154707/222909512-0ac4bafc-ce39-4113-ab05-07ebce8425de.png" width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/98154707/222909850-27e556b9-d158-4a2f-ad28-fc1e435438b3.png" width="600" height="400"/>
 
-![image](https://user-images.githubusercontent.com/98154707/222909512-0ac4bafc-ce39-4113-ab05-07ebce8425de.png)
-![image](https://user-images.githubusercontent.com/98154707/222909850-27e556b9-d158-4a2f-ad28-fc1e435438b3.png)
